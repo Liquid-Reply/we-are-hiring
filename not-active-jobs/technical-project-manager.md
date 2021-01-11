@@ -4,8 +4,6 @@
 
 **Contract Type:** full-time
 
-[APPLY HERE](https://liquidreply.bamboohr.com/jobs/view.php?id=28&source=aWQ9MTQ%3D)
-
 What defines us is our expertise in cloud agnostic implementations and the ability to inspire our customers with pioneering technologies and to introduce innovative solutions rapidly. We are always on the quest for enthusiasts who want to question the status quo, try out new ideas and achieve exciting goals together. **Are you ready?**
 
 
@@ -26,6 +24,3 @@ What defines us is our expertise in cloud agnostic implementations and
 
 
 In addition to an attractive salary, we support your **professional development** during your daily work as well as through unique training opportunities. As an inventive, diverse and international team, we **share our knowledge** and work together. This will help you to **develop yourself**, build new knowledge and skills and show what you are capable of. If you share our passion for perfection and you are looking for an exciting professional challenge, become part of **Reply!**
-## **About Liquid Reply**
-
-As development partner Liquid Reply supports their clients regarding Container Orchestration like **Kubernetes & Cloud Native Development** approaches in the design and migration of complex and fast-moving applications. With a focus on Multi-/Hybrid Cloud implementation, **Site Reliability Engineering** and **Day 2 operation enablement** Liquid Reply goes with their clients the whole cloud native transformation journey. 

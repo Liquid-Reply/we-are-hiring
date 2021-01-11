@@ -25,6 +25,3 @@ What defines us is our expertise in cloud agnostic implementations and
 Very good **communication skills** in English and German, willingness to travel
 
 In addition to an attractive salary, we support your **professional development** during your daily work as well as through unique training opportunities. As an inventive, diverse and international team, we **share our knowledge** and work together. This will help you to **develop yourself**, build new knowledge and skills and show what you are capable of. If you share our passion for perfection and you are looking for an exciting professional challenge, become part of **Reply!**
-## **About Liquid Reply**
-
-As development partner Liquid Reply supports their clients regarding Container Orchestration like **Kubernetes & Cloud Native Development** approaches in the design and migration of complex and fast-moving applications. With a focus on Multi-/Hybrid Cloud implementation, **Site Reliability Engineering** and **Day 2 operation enablement** Liquid Reply goes with their clients the whole cloud native transformation journey. 
