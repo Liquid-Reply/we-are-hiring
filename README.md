@@ -9,9 +9,9 @@ Systems get more and more diverse nowadays, our specialists provide Multi and Hy
 Crossing multiple public cloud providers, the integration into the network of the Europe-wide operating IT service provider Reply gives Liquid Reply access to the know-how of over 8,000 IT experts in a variety of public cloud providers and other sectors. 
 
 ## Open Positions
-* [(Sr.) Kubernetes Engineer](./k8s-engineer.md)
-* [(Sr.) Multi Cloud Consultant](./multi-cloud-consultant.md)
-* [(Sr.) OpenShift Consultant](./open-shift-consultant.md)
-* [Enterprise Architect](./enterprise-architect.md)
-* [Trainee/Junior Cloud Native Engineer](./cloud-native-engineering.md)
-* [(Sr.) Cloud Consultant](./cloud-consultant.md)
+* [(Sr.) Kubernetes Engineer](./active-jobs/k8s-engineer.md)
+* [(Sr.) Multi Cloud Consultant](./active-jobs/multi-cloud-consultant.md)
+* [(Sr.) OpenShift Consultant](./active-jobs/open-shift-consultant.md)
+* [Enterprise Architect](./active-jobs/enterprise-architect.md)
+* [Trainee/Junior Cloud Native Engineer](./active-jobs/cloud-native-engineering.md)
+* [(Sr.) Cloud Consultant](./active-jobs/cloud-consultant.md)
