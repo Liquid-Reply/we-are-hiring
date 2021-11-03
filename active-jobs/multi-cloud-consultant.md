@@ -1,6 +1,6 @@
-# **(Senior) Multi Cloud Consultant**
+# **Multi Cloud Consultant**
 ![Liquid Reply](../media/LiquidReply.png)
-**Locations:** Germany - Munich, Hannover, Berlin (other cities are negotiable)
+**Locations:** Germany - Munich, Hannover, Frankfurt, Berlin, Hamburg - other cities are possible
 
 **Contract Type:** full-time
 
