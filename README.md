@@ -10,7 +10,7 @@ Crossing multiple public cloud providers, the integration into the network of th
 
 ## Open Positions
 * [Kubernetes Platform Engineer](./active-jobs/k8s-engineer.md)
-* [Golang Software Engineer](./active-jobs/golang-software-engineer.md)
-* [Multi Cloud Consultant](./active-jobs/multi-cloud-consultant.md)
-* [Trainee/Junior Cloud Native Engineer](./active-jobs/cloud-native-engineering.md)
 * [Cloud Consultant](./active-jobs/cloud-consultant.md)
+* [Golang Software Engineer](./active-jobs/golang-software-engineer.md)
+* [FinOps Consultant](./active-jobs/finops-consultant.md)
+* [DevOps Engineer/Consultant](./active-jobs/devops-engineer.md)
