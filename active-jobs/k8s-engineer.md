@@ -4,7 +4,7 @@
 
 **Contract Type:** full-time
 
-[APPLY HERE](https://liquidreply.bamboohr.com/jobs/view.php?id=25&source=aWQ9MTQ%3D)
+[APPLY HERE](https://join.com/companies/liquidreply/5633160-kubernetes-platform-engineer-m-f-d)
 
 What defines us is our expertise in cloud agnostic implementations and the ability to inspire our customers with pioneering technologies and to introduce innovative solutions rapidly. We are always on the quest for enthusiasts who want to question the status quo, try out new ideas and achieve exciting goals together. **Are you ready?**
 

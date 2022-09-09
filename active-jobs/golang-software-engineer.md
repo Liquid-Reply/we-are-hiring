@@ -4,7 +4,7 @@
 
 **Contract Type:** full-time
 
-[APPLY HERE](https://liquidreply.bamboohr.com/jobs/view.php?id=29&source=aWQ9MTQ%3D)
+[APPLY HERE](https://join.com/companies/liquidreply/5665711-golang-software-engineer-m-f-d)
 
 We are looking to extend our team of software engineers to expand our customer offering by custom Kubernetes-based solutions. Therefore we are looking for people who have the skills to implement cloud-native, Kubernetes-based services or even extend Kubernetes components.
 
