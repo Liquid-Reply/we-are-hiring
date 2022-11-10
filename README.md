@@ -9,8 +9,11 @@ Systems get more and more diverse nowadays, our specialists provide Multi and Hy
 Crossing multiple public cloud providers, the integration into the network of the Europe-wide operating IT service provider Reply gives Liquid Reply access to the know-how of over 8,000 IT experts in a variety of public cloud providers and other sectors.
 
 ## Open Positions
-* [Kubernetes Platform Engineer](./active-jobs/k8s-engineer.md)
-* [Cloud Consultant](./active-jobs/cloud-consultant.md)
-* [Golang Software Engineer](./active-jobs/golang-software-engineer.md)
-* [FinOps Consultant](./active-jobs/finops-consultant.md)
-* [DevOps Engineer/Consultant](./active-jobs/devops-engineer.md)
+- [Junior Kubernetes Platform Consultant](https://join.com/companies/liquidreply/6278771-junior-kubernetes-platform-engineer-m-f-d)
+- [Senior Kubernetes Platform Consultant](https://join.com/companies/liquidreply/6261110-senior-kubernetes-platform-engineer-m-f-d)
+- [Junior DevOps Engineer/Consultant](https://join.com/companies/liquidreply/6274838-junior-devops-engineer-consultant-m-f-d)
+- [Senior DevOps Engineer/Consultant](https://join.com/companies/liquidreply/6290324-senior-devops-engineer-consultant-m-f-d)
+- [Junior Cloud Consultant](https://join.com/companies/liquidreply/6264421-junior-cloud-consultant-m-f-d)
+- [Senior Cloud Consultant](https://join.com/companies/liquidreply/6245327-senior-cloud-consultant-m-f-d)
+- [Golang Software Engineer](https://join.com/companies/liquidreply/5665711-golang-software-engineer-m-f-d)
+- [FinOps Consultant](https://join.com/companies/liquidreply/5652844-finops-consultant-m-w-d)
